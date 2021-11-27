@@ -1,0 +1,17 @@
+img {
+  width: 550px;
+  height: 500px;
+  border-color: Black;
+  border-radius: 50px;
+  border: solid;
+}
+body {
+  background-color: grey;
+  text-align: center;
+}
+h1 {
+  color: orange;
+}
+p {
+  color: yellow;
+}
